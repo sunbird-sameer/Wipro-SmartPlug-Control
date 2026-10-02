@@ -1,6 +1,6 @@
 # Local control of a Wipro Smart Plug (Tuya-based) with Python
 
-I have a detailed blog at [sunbird-sameer.dhaatu.com/2026/10/taking-local-control-of-wipro-smart.html](https://sunbird-sameer.dhaatu.com/2026/10/taking-local-control-of-wipro-smart.html)
+I have a detailed blog at [sunbird-sameer.blogspot.com/2026/10/taking-local-control-of-wipro-smart.html](https://sunbird-sameer.blogspot.com/2026/10/taking-local-control-of-wipro-smart.html)
 Go check it out!
 
 Control and read energy data from a Wipro smart plug over your local network, using [TinyTuya](https://github.com/jasonacox/tinytuya). Works from a laptop or a Raspberry Pi; nothing here is platform-specific.
